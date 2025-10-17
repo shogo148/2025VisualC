@@ -1,0 +1,16 @@
+@charset "utf-8";
+title {
+	background-color: #0451AD;
+	color: #EB1317;
+}
+
+body h1 {
+	background-color: #FFFFFF;
+	-webkit-box-shadow: 0px 0px #0308F8;
+	box-shadow: 0px 0px #0308F8;
+	color: #1A00FF;
+}
+.key {
+	color: #12FF00;
+	background-color: #1F00EB;
+}
