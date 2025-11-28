@@ -20,7 +20,7 @@ body {
 }
 
 .site-header {
-   background-image: url("2025素材/ワイン.jpg"); /* 好きな画像を指定 */
+  background-image: url("ヘッダー背景.jpg"); /* 好きな画像を指定 */
   background-size: cover;                 /* 画像を枠いっぱいに広げる */
   background-position: center;            /* 中央に配置 */
   background-repeat: no-repeat;           /* 繰り返さない */
@@ -77,11 +77,13 @@ body {
     height: 180px;
 }
 nav {
+	background-color: #ffffff;
   position: absolute;
   top: 400px;
   right: 20px;
 }
 nav1 {
+  background-color: #ffffff;
   position: absolute;
   top: 130px;
   right: 20px;
